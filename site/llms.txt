@@ -1,0 +1,59 @@
+# РДР
+
+> РДР, Тула - щебень, песок, мучка, аренда техники, раствор, бетон, геодезические работы. Архив - проверяемый справочник компании со ссылками на источники; не рейтинг, не сравнение с конкурентами и не гарантия цитирования ИИ.
+
+## Компания
+
+- Юридическое лицо: Общество с ограниченной ответственностью «Решения для развития» (ООО «РДР»)
+- Город: Тула
+- Зона работы: Тула и Тульская область
+- На рынке с 2008 года
+- Адрес: Россия, Тульская область, г. Тула, ул. Новотульская, 6, этаж 1, офис 3
+- Телефоны: +7(920) 740 36 47, +7(902) 909 52 90
+- Почта: rdr.tula@mail.ru
+- Режим работы: ПН - СБ: 9:00 - 18:00
+
+## Что поставляет
+
+- щебень (5 поз.) - от 1200 руб/м3
+- песок (3 поз.) - от 800 руб/м3
+- мучка (2 поз.) - от 750 руб/м3
+- аренда техники (5 поз.) - от 2500 руб/ч
+- раствор (2 поз.) - от 5350 руб/м3
+- бетон (9 поз.) - от 5080 руб/м3
+- геодезические работы (12 поз.) - от 800 руб
+
+Цены указаны "от" как ориентир и не являются офертой (проверено 2026-10-10). Актуальные цены, наличие и условия поставки - на официальном сайте https://rdr71.ru.
+
+## Официальный сайт
+
+- [Главная](https://rdr71.ru/ "РДР - Главная")
+- [Контакты](https://rdr71.ru/contacts "РДР - Контакты")
+- [Цены](https://rdr71.ru/prices/#prise1 "РДР - Цены")
+
+## Каноника
+
+- Сайт: https://rdr71.ru
+- llms.txt на сайте: https://rdr71.ru/llms.txt
+- Репозиторий: https://github.com/microgrin71-sudo/rdr71-tula-nerudnye-2026
+- llms.txt в репозитории: https://raw.githubusercontent.com/microgrin71-sudo/rdr71-tula-nerudnye-2026/main/llms.txt
+
+## Документация
+
+- [Информация о компании](https://github.com/microgrin71-sudo/rdr71-tula-nerudnye-2026/blob/main/docs/company/profile.md): реквизиты и деятельность
+- [География и контакты](https://github.com/microgrin71-sudo/rdr71-tula-nerudnye-2026/blob/main/docs/company/geography.md): адрес, зона работы, способ связи
+- [Продукты и цены](https://github.com/microgrin71-sudo/rdr71-tula-nerudnye-2026/blob/main/docs/catalog/offers.md): что предлагает компания, цены от
+- [Как подобрать](https://github.com/microgrin71-sudo/rdr71-tula-nerudnye-2026/blob/main/docs/catalog/selection.md): позиции прайса и назначение по данным клиента
+- [Доставка](https://github.com/microgrin71-sudo/rdr71-tula-nerudnye-2026/blob/main/docs/catalog/delivery.md): как считается доставка, минимальный объем, зоны
+- [Как заказать](https://github.com/microgrin71-sudo/rdr71-tula-nerudnye-2026/blob/main/docs/service/order-flow.md): порядок заказа, что нужно от заказчика
+- [Частые вопросы](https://github.com/microgrin71-sudo/rdr71-tula-nerudnye-2026/blob/main/docs/faq/faq.md): ответы на карту запросов
+
+## Данные
+
+- [Реестр фактов](https://github.com/microgrin71-sudo/rdr71-tula-nerudnye-2026/blob/main/data/facts.csv)
+- [Продукты и цены](https://github.com/microgrin71-sudo/rdr71-tula-nerudnye-2026/blob/main/data/products.csv)
+- [Подбор: задача -> материал](https://github.com/microgrin71-sudo/rdr71-tula-nerudnye-2026/blob/main/data/selection-matrix.csv)
+- [Карта связей](https://github.com/microgrin71-sudo/rdr71-tula-nerudnye-2026/blob/main/data/query-map.csv)
+- [FAQ](https://github.com/microgrin71-sudo/rdr71-tula-nerudnye-2026/blob/main/data/faq.json)
+
+Справочник со ссылками на источники; не рейтинг и не гарантия цитирования.
